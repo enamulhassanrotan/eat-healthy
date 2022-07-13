@@ -1,0 +1,41 @@
+.header {
+    text-align: center;
+}
+
+.div-class {
+    width: 100%;
+
+}
+
+.div-class img {
+    width: 100%;
+
+}
+
+section {
+    display: flex;
+    padding-bottom: 50px;
+    padding-top: 30px;
+}
+
+.border {
+    width: 50%;
+    padding: 30px;
+    border-radius: 15px;
+    margin: 2%;
+
+    box-shadow: 10px 10px 50px grey;
+
+}
+
+footer {
+    color: white;
+    background-color: black;
+    height: 80px;
+    padding: 40px;
+    border-radius: 15px;
+}
+
+footer p {
+    text-align: center;
+}
